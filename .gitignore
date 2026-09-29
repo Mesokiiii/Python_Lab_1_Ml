@@ -1,0 +1,26 @@
+# Байткод Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Временные файлы заданий
+temp_dir/
+*.tmp
+input_test.txt
+output_test.txt
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
